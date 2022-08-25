@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tetris</string>
+    <string name="finish">Avslutt</string>
+    <string name="hello">Tetris</string>
+    <string name="left">Venstre</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Gjennoppta</string>
+    <string name="right">Høyre</string>
+    <string name="menu_settings">Instillinger</string>
+    <string name="rotate">Roter</string>
+    <string name="help">Hjelp</string>
+    <string name="alert">Målet med spillet er å fylle opp de horisontale linjene. Flytt eller roter figuren ved å trykke på knappene.</string>
+    <string name="info">Informasjon</string>
+</resources>

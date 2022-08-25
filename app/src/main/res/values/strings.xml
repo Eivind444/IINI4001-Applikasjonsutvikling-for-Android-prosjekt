@@ -1,0 +1,14 @@
+<resources>
+    <string name="hello">Tetris</string>
+    <string name="menu_settings">Instillinger</string>
+    <string name="app_name">Tetris</string>
+    <string name="finish">Avslutt</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Gjennoppta</string>
+    <string name="left">Venstre</string>
+    <string name="right">Høyre</string>
+    <string name="rotate">Roter</string>
+    <string name="help">Hjelp</string>
+    <string name="alert">alert</string>
+    <string name="info">Informasjon</string>
+</resources>
